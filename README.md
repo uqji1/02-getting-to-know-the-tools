@@ -20,3 +20,5 @@ We're also going to be using some more advanced methods that `pandas` offers - y
 - If you get stuck then someone else has probably already had your problem and got it fixed on Stack Overflow - you can see questions tagged with `pandas` here: https://stackoverflow.com/questions/tagged/pandas
 
 - Ji's message
+
+- From Mick
